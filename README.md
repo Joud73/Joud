@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Joud
 
-Welcome to my GitHub profile! I'm a passionate learner and enthusiast in the field of artificial intelligence, always eager to explore the depths of machine learning, computer vision, and data analysis.
+Welcome to my GitHub profile! I'm a passionate learner and enthusiast in the field of artificial intelligence, always eager to explore the depths of machine learning and data analysis.
 
 
 🌱 **I’m currently an AI student at IAU University.**
