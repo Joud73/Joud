@@ -1,4 +1,4 @@
-#👋 Hi, I’m Joud 
+# 👋 Hi, I’m Joud 
                          AI Student at IAU
 
 -🌱 **I’m currently learning Data scince and machine learning.**
