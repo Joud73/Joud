@@ -1,10 +1,8 @@
-# 👋 Hi, I’m Joud
+# 👋 Hi, I’m Joud 
+AI Student at IAU
 
-Welcome to my GitHub profile! I'm a passionate learner and enthusiast in the field of artificial intelligence, always eager to explore the depths of machine learning and data analysis.
+-🌱 **I’m currently learning Data scince and machine learning.**
 
+-💞️ **I’m looking to collaborate on AI prjects with other developers** 
 
-🌱 **I’m currently an AI student at IAU University.**
-
-💞️ **I’m looking to collaborate on:** 
-  - Projects that push the boundaries of AI and machine learning.
- 
+-📫 **How to reach me** 2210003468@iau.edu.sa
